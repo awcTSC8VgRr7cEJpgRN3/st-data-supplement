@@ -1,0 +1,1 @@
+###### Personal use of rough fix for broken textures of SuperTux worldmap and levels etc.
